@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin, python**
 
-- 📫 How to reach me **ddoridori@pusan.ac.kr**
+- 📫 How to reach me **seohee@pusan.ac.kr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
