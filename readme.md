@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ella</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
+<h1 align="left">Hi 👋, I'm Lee. </h1>
+<h3 align="left">A passionate frontend developer from Korea</h3>
 
 - 🌱 I’m currently learning **Kotlin, python**
 
